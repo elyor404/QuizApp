@@ -15,3 +15,4 @@ C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\ref
 C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\Lesson19.pdb
 C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\Lesson19.genruntimeconfig.cache
 C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\ref\Lesson19.dll
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\Lesson19.sourcelink.json
