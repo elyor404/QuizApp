@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fHzRl1OU8Ks=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elyorbek_Khatanboyev\\Development\\bootcamp\\Lesson19\\Lesson19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elyorbek_Khatanboyev\\.nuget\\packages\\spectre.console\\0.50.0\\spectre.console.0.50.0.nupkg.sha512",
+    "C:\\Users\\Elyorbek_Khatanboyev\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\bin\Debug\net8.0\Lesson19.exe
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\bin\Debug\net8.0\Lesson19.deps.json
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\bin\Debug\net8.0\Lesson19.runtimeconfig.json
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\bin\Debug\net8.0\Lesson19.dll
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\bin\Debug\net8.0\Lesson19.pdb
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\Lesson19.csproj.AssemblyReference.cache
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\Lesson19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\Lesson19.AssemblyInfoInputs.cache
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\Lesson19.AssemblyInfo.cs
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\Lesson19.csproj.CoreCompileInputs.cache
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\Lesson19.csproj.Up2Date
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\Lesson19.dll
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\refint\Lesson19.dll
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\Lesson19.pdb
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\Lesson19.genruntimeconfig.cache
+C:\Users\Elyorbek_Khatanboyev\Development\bootcamp\Lesson19\obj\Debug\net8.0\ref\Lesson19.dll
