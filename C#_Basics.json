@@ -38,7 +38,7 @@
   {
     "Title": "Quiz 5",
     "Description": "rise top",
-    "IsActive": false,
+    "IsActive": true,
     "Questions": [
       {
         "Type": "MCQ",

@@ -100,7 +100,7 @@ public class QuizMeta
         else if (correctAnswer == item["Answer"].ToString() && spentTime > exactTime)
         {
             AnsiConsole.MarkupLine("[yellow]⚠ Time exceeded. Half credit awarded.[/]");
-            FinalScore += 1 / 2;
+            FinalScore += 0.5 ;
         }
         else
         {
@@ -134,7 +134,7 @@ public class QuizMeta
         else if (correctAnswer == item["Answer"].ToString() && spentTime > exactTime)
         {
             AnsiConsole.MarkupLine("[yellow]⚠ Time exceeded. Half credit awarded.[/]");
-            FinalScore += 1 / 2;
+            FinalScore += 0.5 ;
         }
         else
         {

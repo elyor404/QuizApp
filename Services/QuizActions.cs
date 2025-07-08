@@ -84,7 +84,7 @@ public static class QuizActions
 
         if (button == "delete")
         {
-            var path = QuizManager.GetPath;
+            var path = QuizManager.Path;
 
             var options = new JsonSerializerOptions
             {
@@ -129,7 +129,7 @@ public static class QuizActions
 
     public static void ViewSummary()
     {
-        var path = QuizManager.GetPath;
+        var path = QuizManager.Path;
         var data = new List<Dictionary<string, object>>();
 
         var options = new JsonSerializerOptions()

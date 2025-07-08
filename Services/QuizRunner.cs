@@ -12,7 +12,7 @@ public static class QuizRunner
             .Centered()
             .RuleStyle("grey"));
 
-        var path = QuizManager.GetPath;
+        var path = QuizManager.Path;
 
         var options = new JsonSerializerOptions()
         {

@@ -6,14 +6,14 @@ using System.IO;
 public static class QuizManager
 {
     public static string? selectedTitle { get; set; } = selectedTitle;
-    public static string GetPath { get; set; } = "C#_Basics.json";
+    public static string Path { get; set; } = "C#_Basics.json";
     public static void Run()
     {
         AnsiConsole.Write(new Rule("[bold yellow]MANAGE QUIZZES[/]")
             .Centered()
             .RuleStyle("grey"));
 
-        var path = GetPath;
+        var path = Path;
         var jsonOptions = new JsonSerializerOptions()
         {
             WriteIndented = true,
