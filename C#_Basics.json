@@ -127,5 +127,41 @@
         "TimeLimitSeconds": 4
       }
     ]
+  },
+  {
+    "Title": "brdhtrh",
+    "Description": "htthrh",
+    "IsActive": true,
+    "Questions": [
+      {
+        "Type": "MCQ",
+        "Prompt": "hrthrth",
+        "Options": {
+          "A": "ehhtr",
+          "B": "htrh",
+          "C": "htrthr"
+        },
+        "Answer": "A",
+        "TimeLimitSeconds": 12
+      }
+    ]
+  },
+  {
+    "Title": "Quiz 1",
+    "Description": "mustahkamlash",
+    "IsActive": true,
+    "Questions": [
+      {
+        "Type": "MCQ",
+        "Prompt": "5\u002B5",
+        "Options": {
+          "A": "10",
+          "B": "11",
+          "C": "12"
+        },
+        "Answer": "A",
+        "TimeLimitSeconds": 3
+      }
+    ]
   }
 ]

@@ -24,8 +24,3 @@ public static class ShortAnswerQuestion
 }
 
 
-    //   "Type": "ShortAnswer",
-    //   "Prompt": "What keyword defines a constant?",
-    //   "CorrectAnswer": "const",
-    //   "TimeLimitSeconds": 15
-    // }
