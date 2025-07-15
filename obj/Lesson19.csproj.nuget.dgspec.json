@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elyorbek_Khatanboyev\\Development\\bootcamp\\lesson19\\Lesson19.csproj": {}
+    "C:\\Users\\Elyorbek_Khatanboyev\\Development\\bootcamp\\Lesson19\\Lesson19.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elyorbek_Khatanboyev\\Development\\bootcamp\\lesson19\\Lesson19.csproj": {
+    "C:\\Users\\Elyorbek_Khatanboyev\\Development\\bootcamp\\Lesson19\\Lesson19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elyorbek_Khatanboyev\\Development\\bootcamp\\lesson19\\Lesson19.csproj",
+        "projectUniqueName": "C:\\Users\\Elyorbek_Khatanboyev\\Development\\bootcamp\\Lesson19\\Lesson19.csproj",
         "projectName": "Lesson19",
-        "projectPath": "C:\\Users\\Elyorbek_Khatanboyev\\Development\\bootcamp\\lesson19\\Lesson19.csproj",
+        "projectPath": "C:\\Users\\Elyorbek_Khatanboyev\\Development\\bootcamp\\Lesson19\\Lesson19.csproj",
         "packagesPath": "C:\\Users\\Elyorbek_Khatanboyev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elyorbek_Khatanboyev\\Development\\bootcamp\\lesson19\\obj\\",
+        "outputPath": "C:\\Users\\Elyorbek_Khatanboyev\\Development\\bootcamp\\Lesson19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elyorbek_Khatanboyev\\AppData\\Roaming\\NuGet\\NuGet.Config"
